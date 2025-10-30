@@ -80,7 +80,7 @@ The API is documented using **Swagger UI** and runs at:
 
 ## 🖥️ Frontend Preview
 
-| Login UI | Swagger UI |
+| Login UI | Hexabinar ERP |
 |-----------|--------------|
 | ![Login](docs/screenshots/login_screen.png) | ![Hexabinar ERP](docs/screenshots/swagger_ui.png) |
 
