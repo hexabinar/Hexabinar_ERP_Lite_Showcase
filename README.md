@@ -82,7 +82,7 @@ The API is documented using **Swagger UI** and runs at:
 
 | Login UI | Dashboard UI |
 |-----------|--------------|
-| ![Login](docs/screenshots/login_screen.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+| ![Login](docs/screenshots/login_screen.PNG) | ![Dashboard](docs/screenshots/dashboard.png) |
 
 ---
 
