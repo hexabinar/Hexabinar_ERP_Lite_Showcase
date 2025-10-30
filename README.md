@@ -82,7 +82,7 @@ The API is documented using **Swagger UI** and runs at:
 
 | Login UI | Swagger UI |
 |-----------|--------------|
-| ![Login](docs/screenshots/login_screen.png) | ![Swagger](docs/screenshots/swagger_ui.png) |
+| ![Login](docs/screenshots/login_screen.png) | ![Hexabinar ERP](docs/screenshots/swagger_ui.png) |
 
 ---
 
