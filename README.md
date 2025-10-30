@@ -80,7 +80,7 @@ The API is documented using **Swagger UI** and runs at:
 
 ## 🖥️ Frontend Preview
 
-| Login UI | Dashboard UI |
+| Login UI | Swagger UI |
 |-----------|--------------|
 | ![Login](docs/screenshots/login_screen.png) | ![Swagger](docs/screenshots/swagger_ui.png) |
 
