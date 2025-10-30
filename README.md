@@ -96,8 +96,8 @@ The API is documented using **Swagger UI** and runs at:
 > This public showcase includes **non-sensitive structure**, **documentation**, and **previews** only.
 
 ### Related Repositories:
-- 🔹 [Backend (NestJS + Prisma)](https://github.com/hexabinar/Hexabinar_ERP_Lite_backend)   >  The full source code of the backend is private
-- 🔹 [Frontend (Flutter)](https://github.com/hexabinar/Hexabinar_ERP_Lite_frontend)         >  The full source code of the frontend is private
+- 🔹 [Backend (NestJS + Prisma)](https://github.com/hexabinar/Hexabinar_ERP_Lite_backend)   -->  The full source code of the backend is private
+- 🔹 [Frontend (Flutter)](https://github.com/hexabinar/Hexabinar_ERP_Lite_frontend)         -->  The full source code of the frontend is private
 
 ---
 
