@@ -84,6 +84,10 @@ The API is documented using **Swagger UI** and runs at:
 |-----------|--------------|
 | ![Login](docs/screenshots/login_screen.png) | ![Hexabinar ERP](docs/screenshots/swagger_ui.png) |
 
+| FrontEnd UI | BackEnd UI |
+|-----------|--------------|
+| ![FrontEnd](docs/screenshots/frontend_structure.png) | ![BackEnd](docs/screenshots/backend_structure.png) |
+
 ---
 
 ## 🔒 Repository Access
